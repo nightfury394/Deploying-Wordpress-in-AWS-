@@ -8,4 +8,4 @@
     (Optional) Set up a domain name for the site and create a CNAME record pointing to the public IP of the EC2 instance.
     (Optional) Set up SSL/TLS for the site using a free certificate from Let's Encrypt.
 
-![alt text]('diagram.png')
+![alt text](https://github.com/nightfury394/Deploying-Wordpress-in-AWS-/blob/master/diagram.png)

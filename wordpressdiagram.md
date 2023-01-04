@@ -1,7 +1,7 @@
 +------------+       +-------------+      +----------------+
 |            |       |             |      |                |
-|  Local PC  +------>+  EC2 Instance  +---->+   WordPress    |
-|            |       |    (AMI)      |      |                |
+|  Local PC  +---->+  EC2 Instance  +---->+   WordPress    |
+|            |       |    (AMI)      |    |                |
 +------------+       +-------------+      +----------------+
      |                         |                  |
      |      Connect via SSH    |                  |
@@ -41,7 +41,7 @@
      |                         |                  |
      | (Optional) Set up domain|                  |
      |  name and create CNAME  |                  |
-     |  record                  |                  |
+     |  record                  |                 |
      |                         |                  |
      +-------------------------+                  |
      |                         |                  |
